@@ -1,7 +1,7 @@
 import { TEST_ADMIN_PROJECT_LIST_VIEW } from "@/__tests__/seeding/projects/ProjectViewData";
 import Projects from "@/app/admin/projects/page";
 import "@testing-library/jest-dom";
-import { act, render, within } from "@testing-library/react";
+import { act, render } from "@testing-library/react";
 import "html-validate/jest";
 import { axe, toHaveNoViolations } from "jest-axe";
 import { fetchProjectListView } from "@/app/admin/projects/queries";

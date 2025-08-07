@@ -79,7 +79,7 @@ export const TEST_PROJECT_CREATE_FORM_STATE: ProjectFormState = {
     existing_media: [],
     thumbnail: TEST_CREATE_FILES[2].name,
     links: TEST_PROJECT_ONE.links,
-    live_project_link: TEST_PROJECT_ONE.live_project_link,
+    live_project_link: TEST_PROJECT_ONE.live_project_link ?? "",
   },
 };
 
@@ -95,6 +95,6 @@ export const TEST_PROJECT_EDIT_FORM_STATE: ProjectFormState = {
     existing_media: TEST_PROJECT_ONE.media,
     thumbnail: TEST_PROJECT_ONE.thumbnail_media.url,
     links: TEST_PROJECT_ONE.links,
-    live_project_link: TEST_PROJECT_ONE.live_project_link,
+    live_project_link: TEST_PROJECT_ONE.live_project_link ?? "",
   },
 };
