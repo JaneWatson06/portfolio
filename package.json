@@ -24,10 +24,6 @@
   "dependencies": {
     "@edge-runtime/jest-environment": "^4.0.0",
     "@edge-runtime/jest-expect": "^3.0.0",
-    "@fortawesome/fontawesome-svg-core": "^6.5.2",
-    "@fortawesome/free-brands-svg-icons": "^6.5.2",
-    "@fortawesome/free-solid-svg-icons": "^6.5.2",
-    "@fortawesome/react-fontawesome": "^0.2.2",
     "@tailwindcss/postcss": "^4.0.14",
     "@tailwindcss/typography": "^0.5.15",
     "@types/jest": "^29.5.12",
