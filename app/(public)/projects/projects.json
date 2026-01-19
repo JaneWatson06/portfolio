@@ -1,0 +1,289 @@
+{
+  "featured_projects": [
+    {
+      "title": "Fresumes",
+      "description": "Web application created for a startup that focuses on resume hosting for candidates to share their resume with thousands of recruiters.",
+      "tags": [
+        "TypeScript",
+        "Next.JS",
+        "MongoDB"
+      ],
+      "links": [
+        [
+          "Find the frontend code ",
+          {
+            "name": "here",
+            "url": "https://github.com/JackWatson06/fresumes"
+          },
+          " and the backend code ",
+          {
+            "name": "here",
+            "url": "https://github.com/JackWatson06/fresumes_api"
+          },
+          "."
+        ],
+        [
+          "Click here to see a live ",
+          {
+            "name": "demo",
+            "url": "https://fresumes.janewatson.tech"
+          },
+          "."
+        ]
+      ],
+      "thumbnail_image": {
+        "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactDaytimeLevel.png",
+        "description": "First level in the first grassy plains world.",
+        "width": 1920,
+        "height": 1080
+      },
+      "additional_images": []
+    },
+    {
+      "title": "OurJob.App",
+      "description": "",
+      "tags": [
+        "TypeScript",
+        "React",
+        "MongoDB"
+      ],
+      "links": [
+        [
+          "View product demonstration ",
+          {
+            "name": "here",
+            "url": "https://www.youtube.com/watch?v=kv3fxr0TtWM"
+          },
+          "."
+        ],
+        [
+          "Navigate ",
+          {
+            "name": "here",
+            "url": "https://ourjobapp.janewatson.tech"
+          },
+          " to see a live demo."
+        ],
+        [
+          "Find the code on ",
+          {
+            "name": "GitHub",
+            "url": ""
+          },
+          "."
+        ]
+      ],
+      "thumbnail_image": {
+        "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactDaytimeLevel.png",
+        "description": "First level in the first grassy plains world.",
+        "width": 1920,
+        "height": 1080
+      },
+      "additional_images": []
+    },
+    {
+      "title": "Artifact",
+      "description": "Pixelated 2D platformer following an alien exploring a since abaonded planet earth.",
+      "tags": [
+        "Java"
+      ],
+      "links": [
+        [
+          "View gameplay footage ",
+          {
+            "name": "here!",
+            "url": "https://www.youtube.com/watch?v=45m8FbbjyTo"
+          }
+        ],
+        [
+          "Click ",
+          {
+            "name": "here",
+            "url": "https://testing.com"
+          },
+          " for a link to download the jar file."
+        ],
+        [
+          "See the source code on ",
+          {
+            "name": "GitHub.",
+            "url": "https://github.com/JackWatson06/Artifact"
+          }
+        ]
+      ],
+      "thumbnail_image": {
+        "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactDaytimeLevel.png",
+        "description": "First level in the first grassy plains world.",
+        "width": 1920,
+        "height": 1080
+      },
+      "additional_images": [
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactCompletionScreen.png",
+          "description": "Completion screen after completing a level.",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactSunriseLevel.png",
+          "description": "Sunrise level in the first grassy plains world.",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactForestLevel.png",
+          "description": "First level in the second jungle world.",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "title": "Cave Game",
+      "description": "Procedural 2D platformer where you play as a miner collecting gems.",
+      "tags": [
+        "Java"
+      ],
+      "links": [
+        [
+          "View gameplay footage ",
+          {
+            "name": "here!",
+            "url": "https://www.youtube.com/watch?v=45m8FbbjyTo"
+          }
+        ],
+        [
+          "Click ",
+          {
+            "name": "here",
+            "url": "https://testing.com"
+          },
+          " for a link to download the jar file."
+        ],
+        [
+          "See the source code on ",
+          {
+            "name": "GitHub.",
+            "url": "https://github.com/JackWatson06/Artifact"
+          }
+        ]
+      ],
+      "thumbnail_image": {
+        "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactDaytimeLevel.png",
+        "description": "First level in the first grassy plains world.",
+        "width": 1920,
+        "height": 1080
+      },
+      "additional_images": [
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactCompletionScreen.png",
+          "description": "Completion screen after completing a level.",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactSunriseLevel.png",
+          "description": "Sunrise level in the first grassy plains world.",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://f005.backblazeb2.com/file/251116-jane-watson-portfolio/251116_ArtifactForestLevel.png",
+          "description": "First level in the second jungle world.",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    }
+  ],
+  "more_projects": [
+    {
+      "section": "Website",
+      "links": [
+        [
+          "This portfolio site!"
+        ],
+        [
+          "Website created for my first startup",
+          {
+            "name": "American Labor Company",
+            "url": "https://alc.janewatson.tech"
+          },
+          "."
+        ],
+        [
+          {
+            "name": "Zen",
+            "url": "https://zen.janewatson.tech"
+          },
+          " themed website with a meditation timer and soundscape."
+        ],
+        [
+          "Fun ",
+          {
+            "name": "Evolution Simulator",
+            "url": "https://evolution.janewatson.tech"
+          },
+          " simulating bugs finding food using Q-learning."
+        ],
+        [
+          {
+            "name": "Music visualizer",
+            "url": "https://music.janewatson.tech"
+          },
+          " simulating bugs finding food using Q-learning."
+        ]
+      ]
+    },
+    {
+      "section": "Games",
+      "links": [
+        [
+          "4-hour games. Collection of games I wrote in 4 hours for practice. Play them all in the ",
+          {
+            "name": "arcade!",
+            "url": "https://janewatson.tech/arcade"
+          }
+        ],
+        [
+          "3D path finding simulation written using C++. ",
+          {
+            "name": "Find the source code here!",
+            "url": "https://github.com/JackWatson06/path_finder"
+          }
+        ],
+        [
+          "Surfing inspired minigame created using JavaScript. ",
+          {
+            "name": "Play here!",
+            "url": "https://surfing.janewatson.tech"
+          }
+        ]
+      ]
+    },
+    {
+      "section": "Applications",
+      "links": [
+        [
+          "Custom 3D modeling tool written in Java.",
+          {
+            "name": "Find on GitHub",
+            "url": "https://github.com/JackWatson06/ddupes"
+          },
+          ", or ",
+          {
+            "name": "download the .jar file here!",
+            "url": "https://downloads.janewatson.tech/3d-modeling"
+          }
+        ],
+        [
+          "DDupes, local application written in C++ to find duplicate directories on your PC.",
+          {
+            "name": "View the source code.",
+            "url": "https://github.com/JackWatson06/ddupes"
+          }
+        ]
+      ]
+    }
+  ]
+}

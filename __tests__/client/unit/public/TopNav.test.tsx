@@ -1,4 +1,4 @@
-import { logRoles, render, screen } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 
 import TopNav from "@/app/(public)/TopNav";
 import { usePathname } from "next/navigation";

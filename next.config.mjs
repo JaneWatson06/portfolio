@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     localPatterns: [
       {
-        pathname: "/assets/images/**",
+        pathname: "/api/media/**",
         search: "",
       },
     ],

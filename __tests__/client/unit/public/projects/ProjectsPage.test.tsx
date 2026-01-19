@@ -13,13 +13,13 @@ import { axe } from "jest-axe";
 // - Each page must have an h1.
 // - Labels on forms.
 
-test("project list page renders valid HTML.", async () => {
+test("project list page renders valid HTML", async () => {
   const { container } = render(await Projects());
 
   expect(container.innerHTML).toHTMLValidate();
 });
 
-test("accessability of page.", async () => {
+test("accessability of page", async () => {
   const { container } = render(await Projects());
 
   await act(async () => {

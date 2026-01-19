@@ -1,4 +1,4 @@
-# Jack's Portfolio
+# Jane's Portfolio
 
 This is a [Next.js](https://nextjs.org/) project to host my portfolio!
 
